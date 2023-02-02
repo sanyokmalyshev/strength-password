@@ -1,3 +1,3 @@
 # Demo Link
-https://sanyokmalyshev.github.io/password-strength/
+https://sanyokmalyshev.github.io/strength-password/
 
